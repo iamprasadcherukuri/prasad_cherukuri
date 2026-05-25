@@ -63,7 +63,7 @@ With a foundation in QA and ETL testing, I bring a strong quality-first approach
 
 ---
 
-## 📂 Featured Projects *(Add links to your repositories here)*
+## 📂 Featured Projects 
 
 🔹 **SQL Performance Optimization Scripts**
 
